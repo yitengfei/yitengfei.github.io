@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repo: https://github.com/yitengfei/yitengfei.github.io.git
+  branch: master
